@@ -1,5 +1,7 @@
 # Sanmarquino
-Buen día, buenas tardes, y buenas noches. Esta es mi segunda página.
+Buenas tardes, presentaré mi tabla.
+
+[plantilla-tabla-periodica-hoja-calculo.xlsx](https://github.com/Letnash/Sanmarquino/files/9760078/plantilla-tabla-periodica-hoja-calculo.xlsx)
 
 
 ![UNMSM](https://user-images.githubusercontent.com/114767318/195147665-9dd71201-5c15-463a-80e2-7e289519c037.png)
