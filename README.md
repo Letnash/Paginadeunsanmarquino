@@ -1,7 +1,7 @@
 # Sanmarquino
 Buenas tardes, presentaré mi tabla.
 
-[Tabla periodica - Lincoll](https://docs.google.com/spreadsheets/d/1Ynm3859yGU1BdEKGXTxgJrQegrZdHlYE/edit#gid=1692026891)
+[Tabla periodica - Lincoll](https://docs.google.com/spreadsheets/d/1Ynm3859yGU1BdEKGXTxgJrQegrZdHlYE/edit?usp=sharing&ouid=106117440542896955102&rtpof=true&sd=true)
 
 ![Tabla](https://user-images.githubusercontent.com/114767318/195210397-f8420be3-013f-4970-869d-e049de5c1eed.png)
 
