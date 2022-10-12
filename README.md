@@ -1,4 +1,4 @@
-# Sanmarquino
+# Paginadeunsanmarquino
 Buenas tardes, presentaré mi tabla.
 
 [Tabla periodica - Lincoll](https://docs.google.com/spreadsheets/d/1Ynm3859yGU1BdEKGXTxgJrQegrZdHlYE/edit?usp=sharing&ouid=106117440542896955102&rtpof=true&sd=true)
